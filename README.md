@@ -1,23 +1,70 @@
-![👋 Hi, my name is Nikunj Shah](https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjcyNzA2ODcsIm5iZiI6MTcyNzI3MDM4NywicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI1VDEzMTk0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFiMzQ0MDY3OGNlNjBlOWMzNjNmMzM0MTAzYzFhNWY0NTM3M2U5YmM2ZDUwODBlNjNkYzE2MzY3YTQ0ZDZhM2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.zvZP1jlY_Aiu_QqmtYhfivhG32o8wjD0Wi30um30vuY)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hello!&descAlign=50&descSize=50&reversal=false&fontAlign=50&fontAlignY=50&descAlignY=74&fontSize=50&textBg=false&fontColor=white"/>
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=shahnikunj50&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=nikunjshah&label=Profile%20Views&color=blue&style=flat)
 
-<div id="toc">
-  <ul align="left" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Nikunj Shah
-      </h1>
-    </summary>
-  </ul>
-</div>
+### 👋 Hi, I'm Nikunj Shah!  
 
-**<h3 align="left">Connect with me :</h3>** 
-<p align="left"><a href="mailto:shahnikunj50@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/shahnikunj50" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/shahnikunj50" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+📍 **Location:** Surat, Gujarat, India  
+💼 **Current Role:** Sr. Quality Assurance Engineer  
+🏢 **Company:** Comnet Development India  
 
- **<h3 align="left">A passionate QA Engineer with 9+ years of experience in software testing. I specialize in ensuring software quality through manual and automation testing, with expertise in Selenium, Python, API Testing, Performance Testing, Security Testing, Mobile App Testing.</h3>**
+---
 
- **<h3 align="left">Skills :</h3>**
+### 📫 Connect with Me
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red)](mailto:shahnikunj50@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/shahnikunj50)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/shahnikunj50)  
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" height="32" alt="Selenium" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="32" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="32" alt="Postman" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="32" alt="Jenkins" style="margin-right: 4px"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="32" alt="GitHub Actions" style="margin-right: 4px"> <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" height="32" alt="OpenAI" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=pycharm" height="32" alt="PyCharm" style="margin-right: 4px"></div>
+---
+
+### 📝 About Me
+With over **9 years of experience** in Quality Assurance, I specialize in:  
+- Manual Testing  
+- Automation Testing (Selenium, PyTest)  
+- Performance Testing (JMeter)  
+- API Testing (Postman)  
+- Security Testing (OWASP ZAP)  
+- Mobile App Testing  
+
+I'm passionate about **delivering high-quality software** and continuously improving **testing processes**.
+
+---
+
+### 🎓 Education
+- **Master of Science in Computer Application (MScCA)**  
+- **Bachelor of Computer Application (BCA)**  
+
+---
+
+### 🛠 Skills & Tools
+- **Programming Language:** Python  
+- **Testing Frameworks:** Selenium, PyTest  
+- **Tools:** Postman, JMeter, OWASP ZAP, SQL, Jenkins, GitHub, Docker, JIRA  
+
+---
+
+### 🛠 Some Tools I Have Used & Learned
+
+#### 🖥️ Development & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+
+#### 🧪 Testing Tools
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=flat&logo=python&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apache-jmeter&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat&logo=owasp&logoColor=white)
+
+#### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+#### ☁️ CI/CD
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+#### 📋 Project Management & Tracking
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
 
